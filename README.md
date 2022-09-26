@@ -1,2 +1,2 @@
 # DSA-with-Java
-Data Structures with java from Binary Trees
+This repository contains the code samples of data structures from the topic Binary Trees
